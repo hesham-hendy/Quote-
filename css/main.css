@@ -1,0 +1,26 @@
+div {
+    text-align: center;
+}
+
+h1 {
+    font-size: 100px;
+}
+
+button {
+    width: 250px;
+    height: 80px;
+    background-color: #3D5300;
+    color: white;
+    font-size: 30px;
+    border-radius: 10px;
+    border: #ABBA7C 2px solid;
+}
+
+p { 
+    font-size: 40px;
+}
+
+button:hover {
+    background-color: #ABBA7C;
+    border: #3D5300 2px solid
+}
